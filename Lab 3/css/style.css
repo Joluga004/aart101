@@ -1,0 +1,9 @@
+img {
+    width: 50%; /* Set width to 50% */
+    height: auto; /* Maintain aspect ratio */
+}
+
+.smaller-image {
+    width: 50%; /* Set width to 50% */
+    height: auto; /* Maintain aspect ratio */
+}
